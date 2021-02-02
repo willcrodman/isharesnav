@@ -1,0 +1,246 @@
+ticker,name,href,inception,gross expense ratio,net expense ratio,net assets
+IVV,iShares Core S&P 500 ETF,https://www.ishares.com/us/products/239726/ishares-core-sp-500-etf,2000-05-15,0.03,0.03,216889000000.0
+IEFA,iShares Core MSCI EAFE ETF,https://www.ishares.com/us/products/244049/ishares-core-msci-eafe-etf,2012-10-18,0.07,0.07,71486000000.0
+IWF,iShares Russell 1000 Growth ETF,https://www.ishares.com/us/products/239706/ishares-russell-1000-growth-etf,2000-05-22,0.19,0.19,60337000000.0
+IEMG,iShares Core MSCI Emerging Markets ETF,https://www.ishares.com/us/products/244050/ishares-core-msci-emerging-markets-etf,2012-10-18,0.13,0.13,55185000000.0
+EFA,iShares MSCI EAFE ETF,https://www.ishares.com/us/products/239623/ishares-msci-eafe-etf,2001-08-14,0.32,0.32,48655000000.0
+IJH,iShares Core S&P Mid-Cap ETF,https://www.ishares.com/us/products/239763/ishares-core-sp-midcap-etf,2000-05-22,0.05,0.05,45465000000.0
+IJR,iShares Core S&P Small-Cap ETF,https://www.ishares.com/us/products/239774/ishares-core-sp-smallcap-etf,2000-05-22,0.06,0.06,44298000000.0
+IWM,iShares Russell 2000 ETF,https://www.ishares.com/us/products/239710/ishares-russell-2000-etf,2000-05-22,0.19,0.19,40651000000.0
+IWD,iShares Russell 1000 Value ETF,https://www.ishares.com/us/products/239708/ishares-russell-1000-value-etf,2000-05-22,0.19,0.19,36424000000.0
+USMV,iShares MSCI USA Min Vol Factor ETF,https://www.ishares.com/us/products/239695/ishares-msci-usa-minimum-volatility-etf,2011-10-18,0.15,0.15,34611000000.0
+IVW,iShares S&P 500 Growth ETF,https://www.ishares.com/us/products/239725/ishares-sp-500-growth-etf,2000-05-22,0.18,0.18,31223000000.0
+ITOT,iShares Core S&P Total U.S. Stock Market ETF,https://www.ishares.com/us/products/239724/ishares-core-sp-total-us-stock-market-etf,2004-01-20,0.03,0.03,27847000000.0
+IWB,iShares Russell 1000 ETF,https://www.ishares.com/us/products/239707/ishares-russell-1000-etf,2000-05-15,0.15,0.15,24430000000.0
+EEM,iShares MSCI Emerging Markets ETF,https://www.ishares.com/us/products/239637/ishares-msci-emerging-markets-etf,2003-04-07,0.68,0.68,24308000000.0
+IWR,iShares Russell Mid-Cap ETF,https://www.ishares.com/us/products/239718/ishares-russell-midcap-etf,2001-07-17,0.19,0.19,21155000000.0
+IXUS,iShares Core MSCI Total International Stock ETF,https://www.ishares.com/us/products/244048/ishares-core-msci-total-international-stock-etf,2012-10-18,0.09,0.09,21103000000.0
+QUAL,iShares MSCI USA Quality Factor ETF,https://www.ishares.com/us/products/256101/ishares-msci-usa-quality-factor-etf,2013-07-16,0.15,0.15,19624000000.0
+PFF,iShares Preferred and Income Securities ETF,https://www.ishares.com/us/products/239826/ishares-us-preferred-stock-etf,2007-03-26,0.46,0.46,16654000000.0
+IVE,iShares S&P 500 Value ETF,https://www.ishares.com/us/products/239728/ishares-sp-500-value-etf,2000-05-22,0.18,0.18,16116000000.0
+IWP,iShares Russell Mid-Cap Growth ETF,https://www.ishares.com/us/products/239717/ishares-russell-midcap-growth-etf,2001-07-17,0.24,0.24,13249000000.0
+DVY,iShares Select Dividend ETF,https://www.ishares.com/us/products/239500/ishares-select-dividend-etf,2003-11-03,0.39,0.39,13025000000.0
+ACWI,iShares MSCI ACWI ETF,https://www.ishares.com/us/products/239600/ishares-msci-acwi-etf,2008-03-26,0.33,0.32,12638000000.0
+DGRO,iShares Core Dividend Growth ETF,https://www.ishares.com/us/products/264623/ishares-core-dividend-growth-etf,2014-06-10,0.08,0.08,11852000000.0
+MTUM,iShares MSCI USA Momentum Factor ETF,https://www.ishares.com/us/products/251614/ishares-msci-usa-momentum-factor-etf,2013-04-16,0.15,0.15,11725000000.0
+EFAV,iShares MSCI EAFE Min Vol Factor ETF,https://www.ishares.com/us/products/239626/ishares-msci-eafe-minimum-volatility-etf,2011-10-18,0.32,0.20,10970000000.0
+IWS,iShares Russell Mid-Cap Value ETF,https://www.ishares.com/us/products/239719/ishares-russell-midcap-value-etf,2001-07-17,0.24,0.24,10166000000.0
+IWV,iShares Russell 3000 ETF,https://www.ishares.com/us/products/239714/ishares-russell-3000-etf,2000-05-22,0.20,0.20,9909000000.0
+EWJ,iShares MSCI Japan ETF,https://www.ishares.com/us/products/239665/ishares-msci-japan-etf,1996-03-12,0.49,0.49,9903000000.0
+IUSG,iShares Core S&P U.S. Growth ETF,https://www.ishares.com/us/products/239713/ishares-core-sp-us-growth-etf,2000-07-24,0.04,0.04,9633000000.0
+IBB,iShares Nasdaq Biotechnology ETF,https://www.ishares.com/us/products/239699/ishares-nasdaq-biotechnology-etf,2001-02-05,0.46,0.46,9372000000.0
+IWO,iShares Russell 2000 Growth ETF,https://www.ishares.com/us/products/239709/ishares-russell-2000-growth-etf,2000-07-24,0.24,0.24,9227000000.0
+SCZ,iShares MSCI EAFE Small-Cap ETF,https://www.ishares.com/us/products/239627/ishares-msci-eafe-smallcap-etf,2007-12-10,0.40,0.40,9071000000.0
+ESGU,iShares ESG Aware MSCI USA ETF,https://www.ishares.com/us/products/286007/ishares-esg-aware-msci-usa-etf-fund,2016-12-01,0.15,0.15,8661000000.0
+EFG,iShares MSCI EAFE Growth ETF,https://www.ishares.com/us/products/239622/ishares-msci-eafe-growth-etf,2005-08-01,0.40,0.40,8429000000.0
+IWN,iShares Russell 2000 Value ETF,https://www.ishares.com/us/products/239712/ishares-russell-2000-value-etf,2000-07-24,0.24,0.24,8289000000.0
+IHI,iShares U.S. Medical Devices ETF,https://www.ishares.com/us/products/239516/ishares-us-medical-devices-etf,2006-05-01,0.42,0.42,7902000000.0
+OEF,iShares S&P 100 ETF,https://www.ishares.com/us/products/239723/ishares-sp-100-etf,2000-10-23,0.20,0.20,7216000000.0
+IJK,iShares S&P Mid-Cap 400 Growth ETF,https://www.ishares.com/us/products/239762/ishares-sp-midcap-400-growth-etf,2000-07-24,0.24,0.24,6901000000.0
+IUSV,iShares Core S&P U.S. Value ETF,https://www.ishares.com/us/products/239715/ishares-core-sp-us-value-etf,2000-07-24,0.04,0.04,6574000000.0
+IYW,iShares U.S. Technology ETF,https://www.ishares.com/us/products/239522/ishares-us-technology-etf,2000-05-15,0.42,0.42,6413000000.0
+MCHI,iShares MSCI China ETF,https://www.ishares.com/us/products/239619/ishares-msci-china-etf,2011-03-29,0.59,0.59,6153000000.0
+EFV,iShares MSCI EAFE Value ETF,https://www.ishares.com/us/products/239628/ishares-msci-eafe-value-etf,2005-08-01,0.39,0.39,6092000000.0
+VLUE,iShares MSCI USA Value Factor ETF,https://www.ishares.com/us/products/251616/ishares-msci-usa-value-factor-etf,2013-04-16,0.15,0.15,6025000000.0
+ACWV,iShares MSCI Global Min Vol Factor ETF,https://www.ishares.com/us/products/239605/ishares-msci-all-country-world-minimum-volatility-etf,2011-10-18,0.32,0.20,5906000000.0
+HDV,iShares Core High Dividend ETF,https://www.ishares.com/us/products/239563/ishares-high-dividend-etf,2011-03-29,0.08,0.08,5644000000.0
+EWZ,iShares MSCI Brazil ETF,https://www.ishares.com/us/products/239612/ishares-msci-brazil-capped-etf,2000-07-10,0.59,0.59,5354000000.0
+IGV,iShares Expanded Tech-Software Sector ETF,https://www.ishares.com/us/products/239771/ishares-north-american-techsoftware-etf,2001-07-10,0.46,0.46,5259000000.0
+IJS,iShares S&P Small-Cap 600 Value ETF,https://www.ishares.com/us/products/239775/ishares-sp-smallcap-600-value-etf,2000-07-24,0.25,0.25,5044000000.0
+EWY,iShares MSCI South Korea ETF,https://www.ishares.com/us/products/239681/ishares-msci-south-korea-capped-etf,2000-05-09,0.59,0.59,4961000000.0
+IJJ,iShares S&P Mid-Cap 400 Value ETF,https://www.ishares.com/us/products/239764/ishares-sp-midcap-400-value-etf,2000-07-24,0.25,0.25,4640000000.0
+IJT,iShares S&P Small-Cap 600 Growth ETF,https://www.ishares.com/us/products/239773/ishares-sp-smallcap-600-growth-etf,2000-07-24,0.25,0.25,4548000000.0
+EZU,iShares MSCI Eurozone ETF,https://www.ishares.com/us/products/239644/ishares-msci-emu-etf,2000-07-25,0.49,0.49,4484000000.0
+IXN,iShares Global Tech ETF,https://www.ishares.com/us/products/239750/ishares-global-tech-etf,2001-11-12,0.46,0.46,4443000000.0
+EEMV,iShares MSCI Emerging Markets Min Vol Factor ETF,https://www.ishares.com/us/products/239641/ishares-msci-emerging-markets-minimum-volatility-etf,2011-10-18,0.68,0.25,4319000000.0
+EWT,iShares MSCI Taiwan ETF,https://www.ishares.com/us/products/239686/ishares-msci-taiwan-etf,2000-06-20,0.59,0.59,4310000000.0
+AAXJ,iShares MSCI All Country Asia ex Japan ETF,https://www.ishares.com/us/products/239601/ishares-msci-all-country-asia-ex-japan-etf,2008-08-13,0.68,0.68,4285000000.0
+IEUR,iShares Core MSCI Europe ETF,https://www.ishares.com/us/products/264617/ishares-core-msci-europe-etf,2014-06-10,0.09,0.09,3603000000.0
+ESGE,iShares ESG Aware MSCI EM ETF,https://www.ishares.com/us/products/283777/ishares-esg-aware-msci-em-etf-fund,2016-06-28,0.25,0.25,3600000000.0
+SOXX,iShares PHLX Semiconductor ETF,https://www.ishares.com/us/products/239705/ishares-phlx-semiconductor-etf,2001-07-10,0.46,0.46,3584000000.0
+FXI,iShares China Large-Cap ETF,https://www.ishares.com/us/products/239536/ishares-china-largecap-etf,2004-10-05,0.74,0.74,3545000000.0
+IDV,iShares International Select Dividend ETF,https://www.ishares.com/us/products/239499/ishares-international-select-dividend-etf,2007-06-11,0.49,0.49,3477000000.0
+IGF,iShares Global Infrastructure ETF,https://www.ishares.com/us/products/239746/ishares-global-infrastructure-etf,2007-12-10,0.46,0.46,3189000000.0
+ACWX,iShares MSCI ACWI ex U.S. ETF,https://www.ishares.com/us/products/239594/ishares-msci-acwi-ex-us-etf,2008-03-26,0.34,0.32,3130000000.0
+IWY,iShares Russell Top 200 Growth ETF,https://www.ishares.com/us/products/239720/ishares-russell-top-200-growth-etf,2009-09-22,0.20,0.20,3107000000.0
+INDA,iShares MSCI India ETF,https://www.ishares.com/us/products/239659/ishares-msci-india-etf,2012-02-02,0.69,0.69,3088000000.0
+IDEV,iShares Core MSCI International Developed Markets ETF,https://www.ishares.com/us/products/286762/ishares-core-msci-international-developed-markets-etf-fund,2017-03-21,0.05,0.05,3019000000.0
+ESGD,iShares ESG Aware MSCI EAFE ETF,https://www.ishares.com/us/products/283778/ishares-esg-aware-msci-eafe-etf-fund,2016-06-28,0.20,0.20,3018000000.0
+ITA,iShares U.S. Aerospace & Defense ETF,https://www.ishares.com/us/products/239502/ishares-us-aerospace-defense-etf,2006-05-01,0.42,0.42,2882000000.0
+EWG,iShares MSCI Germany ETF,https://www.ishares.com/us/products/239650/ishares-msci-germany-etf,1996-03-12,0.49,0.49,2825000000.0
+IGM,iShares Expanded Tech Sector ETF,https://www.ishares.com/us/products/239769/ishares-north-american-tech-etf,2001-03-13,0.46,0.46,2748000000.0
+XT,iShares Exponential Technologies ETF,https://www.ishares.com/us/products/272532/ishares-exponential-technologies-etf,2015-03-19,0.47,0.47,2714000000.0
+SUSL,iShares ESG MSCI USA Leaders ETF,https://www.ishares.com/us/products/308574/ishares-esg-msci-usa-leaders-etf-fund,2019-05-07,0.10,0.10,2516000000.0
+IOO,iShares Global 100 ETF,https://www.ishares.com/us/products/239737/ishares-global-100-etf,2000-12-05,0.40,0.40,2503000000.0
+IYH,iShares U.S. Healthcare ETF,https://www.ishares.com/us/products/239511/ishares-us-healthcare-etf,2000-06-12,0.43,0.43,2351000000.0
+IXJ,iShares Global Healthcare ETF,https://www.ishares.com/us/products/239744/ishares-global-healthcare-etf,2001-11-13,0.46,0.46,2305000000.0
+HEFA,iShares Currency Hedged MSCI EAFE ETF,https://www.ishares.com/us/products/259622/ishares-currency-hedged-msci-eafe-etf,2014-01-31,0.70,0.35,2286000000.0
+EWC,iShares MSCI Canada ETF,https://www.ishares.com/us/products/239615/ishares-msci-canada-etf,1996-03-12,0.49,0.49,2250000000.0
+ITB,iShares U.S. Home Construction ETF,https://www.ishares.com/us/products/239512/ishares-us-home-construction-etf,2006-05-01,0.42,0.42,2237000000.0
+DSI,iShares MSCI KLD 400 Social ETF,https://www.ishares.com/us/products/239667/ishares-msci-kld-400-social-etf,2006-11-14,0.25,0.25,2191000000.0
+EWU,iShares MSCI United Kingdom ETF,https://www.ishares.com/us/products/239690/ishares-msci-united-kingdom-etf,1996-03-12,0.50,0.50,2174000000.0
+EPP,iShares MSCI Pacific ex Japan ETF,https://www.ishares.com/us/products/239674/ishares-msci-pacific-ex-japan-etf,2001-10-25,0.48,0.48,1862000000.0
+JKE,iShares Morningstar Large-Cap Growth ETF,https://www.ishares.com/us/products/239580/ishares-morningstar-largecap-growth-etf,2004-06-28,0.25,0.25,1826000000.0
+IQLT,iShares MSCI Intl Quality Factor ETF,https://www.ishares.com/us/products/271540/ishares-msci-international-developed-quality-factor-etf,2015-01-13,0.30,0.30,1810000000.0
+IYG,iShares U.S. Financial Services ETF,https://www.ishares.com/us/products/239509/ishares-us-financial-services-etf,2000-06-12,0.42,0.42,1809000000.0
+EWL,iShares MSCI Switzerland ETF,https://www.ishares.com/us/products/239685/ishares-msci-switzerland-capped-etf,1996-03-12,0.50,0.50,1718000000.0
+SUSA,iShares MSCI USA ESG Select ETF,https://www.ishares.com/us/products/239692/ishares-msci-usa-esg-select-etf,2005-01-24,0.25,0.25,1696000000.0
+AIA,iShares Asia 50 ETF,https://www.ishares.com/us/products/239730/ishares-asia-50-etf,2007-11-13,0.50,0.50,1519000000.0
+IEV,iShares Europe ETF,https://www.ishares.com/us/products/239736/ishares-europe-etf,2000-07-25,0.59,0.59,1454000000.0
+IXC,iShares Global Energy ETF,https://www.ishares.com/us/products/239741/ishares-global-energy-etf,2001-11-12,0.46,0.46,1391000000.0
+IYF,iShares U.S. Financials ETF,https://www.ishares.com/us/products/239508/ishares-us-financials-etf,2000-05-22,0.42,0.42,1333000000.0
+IYY,iShares Dow Jones U.S. ETF,https://www.ishares.com/us/products/239513/ishares-dow-jones-us-etf,2000-06-12,0.20,0.20,1332000000.0
+EWH,iShares MSCI Hong Kong ETF,https://www.ishares.com/us/products/239657/ishares-msci-hong-kong-etf,1996-03-12,0.49,0.49,1328000000.0
+ICLN,iShares Global Clean Energy ETF,https://www.ishares.com/us/products/239738/ishares-global-clean-energy-etf,2008-06-24,0.46,0.46,1252000000.0
+EWA,iShares MSCI Australia ETF,https://www.ishares.com/us/products/239607/ishares-msci-australia-etf,1996-03-12,0.50,0.50,1245000000.0
+IYC,iShares U.S. Consumer Services ETF,https://www.ishares.com/us/products/239506/ishares-us-consumer-services-etf,2000-06-12,0.42,0.42,1116000000.0
+JKH,iShares Morningstar Mid-Cap Growth ETF,https://www.ishares.com/us/products/239583/ishares-morningstar-midcap-growth-etf,2004-06-28,0.30,0.30,1102000000.0
+IHF,iShares U.S. Healthcare Providers ETF,https://www.ishares.com/us/products/239510/ishares-us-healthcare-providers-etf,2006-05-01,0.42,0.42,977000000.0
+IPAC,iShares Core MSCI Pacific ETF,https://www.ishares.com/us/products/264619/ishares-core-msci-pacific-etf,2014-06-10,0.09,0.09,967000000.0
+URTH,iShares MSCI World ETF,https://www.ishares.com/us/products/239696/ishares-msci-world-etf,2012-01-10,0.24,0.24,935000000.0
+INTF,iShares MSCI Intl Multifactor ETF,https://www.ishares.com/us/products/272822/ishares-msci-international-multi-factor-etf,2015-04-28,0.30,0.30,935000000.0
+ILF,iShares Latin America 40 ETF,https://www.ishares.com/us/products/239761/ishares-latin-america-40-etf,2001-10-25,0.48,0.48,921000000.0
+EWQ,iShares MSCI France ETF,https://www.ishares.com/us/products/239648/ishares-msci-france-etf,1996-03-12,0.50,0.50,886000000.0
+EWW,iShares MSCI Mexico ETF,https://www.ishares.com/us/products/239670/ishares-msci-mexico-capped-etf,1996-03-12,0.49,0.49,874000000.0
+IYJ,iShares U.S. Industrials ETF,https://www.ishares.com/us/products/239514/ishares-us-industrials-etf,2000-06-12,0.42,0.42,867000000.0
+LRGF,iShares MSCI USA Multifactor ETF,https://www.ishares.com/us/products/272824/ishares-msci-usa-multi-factor-etf,2015-04-28,0.20,0.20,867000000.0
+SMMV,iShares MSCI USA Small-Cap Min Vol Factor ETF,https://www.ishares.com/us/products/284609/ishares-msci-usa-small-cap-min-vol-factor-etf-fund,2016-09-07,0.20,0.20,860000000.0
+JKD,iShares Morningstar Large-Cap ETF,https://www.ishares.com/us/products/239579/ishares-morningstar-largecap-etf,2004-06-28,0.20,0.20,838000000.0
+IYT,iShares Transportation Average ETF,https://www.ishares.com/us/products/239501/ishares-transportation-average-etf,2003-10-06,0.42,0.42,828000000.0
+SIZE,iShares MSCI USA Size Factor ETF,https://www.ishares.com/us/products/251465/ishares-msci-usa-size-factor-etf,2013-04-16,0.15,0.15,826000000.0
+IWL,iShares Russell Top 200 ETF,https://www.ishares.com/us/products/239721/ishares-russell-top-200-etf,2009-09-22,0.15,0.15,804000000.0
+IDU,iShares U.S. Utilities ETF,https://www.ishares.com/us/products/239524/ishares-us-utilities-etf,2000-06-12,0.43,0.43,779000000.0
+IWC,iShares Micro-Cap ETF,https://www.ishares.com/us/products/239716/ishares-microcap-etf,2005-08-12,0.60,0.60,770000000.0
+EUFN,iShares MSCI Europe Financials ETF,https://www.ishares.com/us/products/239645/ishares-msci-europe-financials-etf,2010-01-20,0.48,0.48,752000000.0
+IYK,iShares U.S. Consumer Goods ETF,https://www.ishares.com/us/products/239505/ishares-us-consumer-goods-etf,2000-06-12,0.42,0.42,680000000.0
+JKG,iShares Morningstar Mid-Cap ETF,https://www.ishares.com/us/products/239582/ishares-morningstar-midcap-etf,2004-06-28,0.25,0.25,672000000.0
+IWX,iShares Russell Top 200 Value ETF,https://www.ishares.com/us/products/239722/ishares-russell-top-200-value-etf,2009-09-22,0.20,0.20,668000000.0
+LDEM,iShares ESG MSCI EM Leaders ETF,https://www.ishares.com/us/products/312222/ishares-esg-msci-em-leaders-etf-fund,2020-02-05,0.16,0.16,655000000.0
+DVYE,iShares Emerging Markets Dividend ETF,https://www.ishares.com/us/products/239526/ishares-emerging-markets-dividend-etf,2012-02-23,0.49,0.49,650000000.0
+KXI,iShares Global Consumer Staples ETF,https://www.ishares.com/us/products/239740/ishares-global-consumer-staples-etf,2006-09-12,0.46,0.46,614000000.0
+INDY,iShares India 50 ETF,https://www.ishares.com/us/products/239758/ishares-india-50-etf,2009-11-18,0.93,0.93,610000000.0
+HEZU,iShares Currency Hedged MSCI Eurozone ETF,https://www.ishares.com/us/products/268708/ishares-currency-hedged-msci-emu-etf,2014-07-09,1.11,0.52,577000000.0
+SMLF,iShares MSCI USA Small-Cap Multifactor ETF,https://www.ishares.com/us/products/272825/ishares-msci-usa-small-cap-multi-factor-etf,2015-04-28,0.30,0.30,570000000.0
+EEMA,iShares MSCI Emerging Markets Asia ETF,https://www.ishares.com/us/products/239629/ishares-msci-emerging-markets-asia-etf,2012-02-08,0.50,0.50,565000000.0
+EMGF,iShares MSCI Emerging Markets Multifactor ETF,https://www.ishares.com/us/products/272820/ishares-msci-emerging-multi-factor-etf,2015-12-08,0.45,0.45,549000000.0
+RING,iShares MSCI Global Gold Miners ETF,https://www.ishares.com/us/products/239654/ishares-msci-global-gold-miners-etf,2012-01-31,0.39,0.39,546000000.0
+EWS,iShares MSCI Singapore ETF,https://www.ishares.com/us/products/239678/ishares-msci-singapore-capped-etf,1996-03-12,0.50,0.50,527000000.0
+KSA,iShares MSCI Saudi Arabia ETF,https://www.ishares.com/us/products/271542/ishares-msci-saudi-arabia-capped-etf,2015-09-16,0.74,0.74,519000000.0
+CNYA,iShares MSCI China A ETF,https://www.ishares.com/us/products/273318/ishares-msci-china-a-etf,2016-06-13,0.60,0.60,513000000.0
+IMTM,iShares MSCI Intl Momentum Factor ETF,https://www.ishares.com/us/products/271538/ishares-msci-international-developed-momentum-factor-etf,2015-01-13,0.30,0.30,476000000.0
+ERUS,iShares MSCI Russia ETF,https://www.ishares.com/us/products/239677/ishares-msci-russia-capped-etf,2010-11-09,0.59,0.59,474000000.0
+EWP,iShares MSCI Spain ETF,https://www.ishares.com/us/products/239683/ishares-msci-spain-capped-etf,1996-03-12,0.50,0.50,469000000.0
+IVLU,iShares MSCI Intl Value Factor ETF,https://www.ishares.com/us/products/275382/ishares-msci-international-developed-value-factor-etf,2015-06-16,0.30,0.30,461000000.0
+JKF,iShares Morningstar Large-Cap Value ETF,https://www.ishares.com/us/products/239581/ishares-morningstar-largecap-value-etf,2004-06-28,0.25,0.25,459000000.0
+CRBN,iShares MSCI ACWI Low Carbon Target ETF,https://www.ishares.com/us/products/271054/ishares-msci-acwi-low-carbon-target-etf,2014-12-08,0.20,0.20,454000000.0
+THD,iShares MSCI Thailand ETF,https://www.ishares.com/us/products/239688/ishares-msci-thailand-capped-etf,2008-03-26,0.59,0.59,449000000.0
+ECH,iShares MSCI Chile ETF,https://www.ishares.com/us/products/239618/ishares-msci-chile-capped-etf,2007-11-12,0.59,0.59,440000000.0
+IYE,iShares U.S. Energy ETF,https://www.ishares.com/us/products/239507/ishares-us-energy-etf,2000-06-12,0.42,0.42,435000000.0
+IGE,iShares North American Natural Resources ETF,https://www.ishares.com/us/products/239768/ishares-north-american-natural-resources-etf,2001-10-22,0.46,0.46,389000000.0
+MXI,iShares Global Materials ETF,https://www.ishares.com/us/products/239748/ishares-global-materials-etf,2006-09-12,0.45,0.45,379000000.0
+FM,iShares MSCI Frontier 100 ETF,https://www.ishares.com/us/products/239649/ishares-msci-frontier-100-etf,2012-09-12,0.79,0.79,368000000.0
+ESML,iShares ESG Aware MSCI USA Small-Cap ETF,https://www.ishares.com/us/products/296644/ishares-esg-aware-msci-usa-small-cap-etf-fund,2018-04-10,0.17,0.17,363000000.0
+IYZ,iShares U.S. Telecommunications ETF,https://www.ishares.com/us/products/239523/ishares-us-telecommunications-etf,2000-05-22,0.42,0.42,362000000.0
+TECB,U.S. Tech Breakthrough Multisector ETF,https://www.ishares.com/us/products/312046/ishares-u-s-tech-breakthrough-multisector-etf-fund,2020-01-08,0.40,0.40,361000000.0
+IHE,iShares U.S. Pharmaceuticals ETF,https://www.ishares.com/us/products/239519/ishares-us-pharmaceuticals-etf,2006-05-01,0.42,0.42,357000000.0
+IYM,iShares U.S. Basic Materials ETF,https://www.ishares.com/us/products/239503/ishares-us-basic-materials-etf,2000-06-12,0.42,0.42,349000000.0
+EWM,iShares MSCI Malaysia ETF,https://www.ishares.com/us/products/239669/ishares-msci-malaysia-etf,1996-03-12,0.49,0.49,348000000.0
+JKI,iShares Morningstar Mid-Cap Value ETF,https://www.ishares.com/us/products/239584/ishares-morningstar-midcap-value-etf,2004-06-28,0.30,0.30,340000000.0
+EZA,iShares MSCI South Africa ETF,https://www.ishares.com/us/products/239680/ishares-msci-south-africa-etf,2003-02-03,0.59,0.59,335000000.0
+EIDO,iShares MSCI Indonesia ETF,https://www.ishares.com/us/products/239661/ishares-msci-indonesia-etf,2010-05-05,0.59,0.59,331000000.0
+IXP,iShares Global Comm Services ETF,https://www.ishares.com/us/products/239751/ishares-global-telecom-etf,2001-11-12,0.46,0.46,311000000.0
+IEO,iShares U.S. Oil & Gas Exploration & Production ETF,https://www.ishares.com/us/products/239517/ishares-us-oil-gas-exploration-production-etf,2006-05-01,0.42,0.42,295000000.0
+PICK,iShares MSCI Global Metals & Mining Producers ETF,https://www.ishares.com/us/products/239655/ishares-msci-global-metals-mining-producers-etf,2012-01-31,0.39,0.39,284000000.0
+JKL,iShares Morningstar Small-Cap Value ETF,https://www.ishares.com/us/products/239588/ishares-morningstar-smallcap-value-etf,2004-06-28,0.30,0.30,270000000.0
+JKK,iShares Morningstar Small-Cap Growth ETF,https://www.ishares.com/us/products/239587/ishares-morningstar-smallcap-growth-etf,2004-06-28,0.30,0.30,264000000.0
+EPOL,iShares MSCI Poland ETF,https://www.ishares.com/us/products/239676/ishares-msci-poland-capped-etf,2010-05-25,0.61,0.61,257000000.0
+HEWJ,iShares Currency Hedged MSCI Japan ETF,https://www.ishares.com/us/products/259624/ishares-currency-hedged-msci-japan-etf,2014-01-31,1.02,0.49,252000000.0
+RXI,iShares Global Consumer Discretionary ETF,https://www.ishares.com/us/products/239739/ishares-global-consumer-discretionary-etf,2006-09-12,0.46,0.46,251000000.0
+IXG,iShares Global Financials ETF,https://www.ishares.com/us/products/239742/ishares-global-financials-etf,2001-11-12,0.46,0.46,245000000.0
+WOOD,iShares Global Timber & Forestry ETF,https://www.ishares.com/us/products/239752/ishares-global-timber-forestry-etf,2008-06-24,0.46,0.46,240000000.0
+EWD,iShares MSCI Sweden ETF,https://www.ishares.com/us/products/239684/ishares-msci-sweden-etf,1996-03-12,0.55,0.55,240000000.0
+IAT,iShares U.S. Regional Banks ETF,https://www.ishares.com/us/products/239521/ishares-us-regional-banks-etf,2006-05-01,0.42,0.42,235000000.0
+SLVP,iShares MSCI Global Silver and Metals Miners ETF,https://www.ishares.com/us/products/239656/ishares-msci-global-silver-miners-etf,2012-01-31,0.39,0.39,231000000.0
+EUSA,iShares MSCI USA Equal Weighted ETF,https://www.ishares.com/us/products/239693/ishares-msci-usa-etf,2010-05-05,0.15,0.15,224000000.0
+EEMS,iShares MSCI Emerging Markets Small-Cap ETF,https://www.ishares.com/us/products/239642/ishares-msci-emerging-markets-smallcap-etf,2011-08-16,0.69,0.69,212000000.0
+EWI,iShares MSCI Italy ETF,https://www.ishares.com/us/products/239664/ishares-msci-italy-capped-etf,1996-03-12,0.49,0.49,210000000.0
+EXI,iShares Global Industrials ETF,https://www.ishares.com/us/products/239745/ishares-global-industrials-etf,2006-09-12,0.46,0.46,201000000.0
+SMIN,iShares MSCI India Small-Cap ETF,https://www.ishares.com/us/products/239660/ishares-msci-india-smallcap-etf,2012-02-08,0.76,0.76,197000000.0
+JKJ,iShares Morningstar Small-Cap ETF,https://www.ishares.com/us/products/239586/ishares-morningstar-smallcap-etf,2004-06-28,0.25,0.25,188000000.0
+EWN,iShares MSCI Netherlands ETF,https://www.ishares.com/us/products/239671/ishares-msci-netherlands-etf,1996-03-12,0.50,0.50,188000000.0
+HEEM,iShares Currency Hedged MSCI Emerging Markets ETF,https://www.ishares.com/us/products/268704/ishares-currency-hedged-msci-emerging-markets,2014-09-23,1.46,0.68,187000000.0
+TUR,iShares MSCI Turkey ETF,https://www.ishares.com/us/products/239689/ishares-msci-turkey-etf,2008-03-26,0.59,0.59,183000000.0
+IRBO,iShares Robotics and Artificial Intelligence Multisector ETF,https://www.ishares.com/us/products/297905/ishares-robotics-and-artificial-intelligence-multisector-etf-fund,2018-06-26,0.47,0.47,179000000.0
+SDG,iShares MSCI Global Impact ETF,https://www.ishares.com/us/products/283378/ishares-msci-global-impact-etf-fund,2016-04-20,0.49,0.49,170000000.0
+ENZL,iShares MSCI New Zealand ETF,https://www.ishares.com/us/products/239672/ishares-msci-new-zealand-capped-etf,2010-09-01,0.50,0.50,163000000.0
+TOK,iShares MSCI Kokusai ETF,https://www.ishares.com/us/products/239668/ishares-msci-kokusai-etf,2007-12-10,0.25,0.25,160000000.0
+IDNA,iShares Genomics Immunology and Healthcare ETF,https://www.ishares.com/us/products/308878/ishares-genomics-immunology-and-healthcare-etf-fund,2019-06-11,0.47,0.47,153000000.0
+BKF,iShares MSCI BRIC ETF,https://www.ishares.com/us/products/239614/ishares-msci-bric-etf,2007-11-12,0.69,0.69,148000000.0
+JXI,iShares Global Utilities ETF,https://www.ishares.com/us/products/239753/ishares-global-utilities-etf,2006-09-12,0.46,0.46,141000000.0
+IAI,iShares U.S. Broker-Dealers & Securities Exchanges ETF,https://www.ishares.com/us/products/239504/ishares-us-brokerdealers-etf,2006-05-01,0.42,0.42,132000000.0
+IEZ,iShares U.S. Oil Equipment & Services ETF,https://www.ishares.com/us/products/239518/ishares-us-oil-equipment-services-etf,2006-05-01,0.42,0.42,132000000.0
+IEUS,iShares MSCI Europe Small-Cap ETF,https://www.ishares.com/us/products/239537/ishares-developed-smallcap-ex-north-america-etf,2007-11-12,0.40,0.40,130000000.0
+ISCF,iShares MSCI Intl Small-Cap Multifactor ETF,https://www.ishares.com/us/products/272823/ishares-msci-international-small-cap-multi-factor-etf,2015-04-28,0.40,0.40,127000000.0
+EPHE,iShares MSCI Philippines ETF,https://www.ishares.com/us/products/239675/ishares-msci-philippines-etf,2010-09-28,0.59,0.59,120000000.0
+IHAK,iShares Cybersecurity and Tech ETF,https://www.ishares.com/us/products/307352/ishares-cybersecurity-and-tech-etf-fund,2019-06-11,0.47,0.47,119000000.0
+ACWF,iShares MSCI Global Multifactor ETF,https://www.ishares.com/us/products/272821/ishares-msci-global-multi-factor-etf,2015-04-28,0.35,0.35,118000000.0
+EDEN,iShares MSCI Denmark ETF,https://www.ishares.com/us/products/239621/ishares-msci-denmark-capped-etf,2012-01-25,0.53,0.53,109000000.0
+EIS,iShares MSCI Israel ETF,https://www.ishares.com/us/products/239663/ishares-msci-israel-capped-etf,2008-03-26,0.59,0.59,104000000.0
+EWZS,iShares MSCI Brazil Small-Cap ETF,https://www.ishares.com/us/products/239613/ishares-msci-brazil-smallcap-etf,2010-09-28,0.59,0.59,96800000.0
+SMMD,iShares Russell 2500 ETF,https://www.ishares.com/us/products/288024/ishares-russell-2500-etf-fund,2017-07-06,0.23,0.15,94800000.0
+JPXN,iShares JPX-Nikkei 400 ETF,https://www.ishares.com/us/products/239831/ishares-japan-largecap-etf,2001-10-23,0.48,0.48,94100000.0
+IETC,iShares Evolved U.S. Technology ETF,https://www.ishares.com/us/products/292425/ishares-evolved-u-s-technology-etf-fund,2018-03-21,0.18,0.18,89000000.0
+DYNF,BlackRock U.S. Equity Factor Rotation ETF,https://www.ishares.com/us/products/307283/blackrock-u-s-equity-factor-rotation-etf-fund,2019-03-19,0.30,0.30,88400000.0
+QAT,iShares MSCI Qatar ETF,https://www.ishares.com/us/products/264273/ishares-msci-qatar-capped-etf,2014-04-29,0.59,0.59,87700000.0
+IGRO,iShares International Dividend Growth ETF,https://www.ishares.com/us/products/283737/ishares-international-dividend-growth-etf-fund,2016-05-17,0.22,0.22,87500000.0
+EPU,iShares MSCI Peru ETF,https://www.ishares.com/us/products/239606/ishares-msci-all-peru-capped-etf,2009-06-19,0.59,0.59,79800000.0
+HEWG,iShares Currency Hedged MSCI Germany ETF,https://www.ishares.com/us/products/259623/ishares-currency-hedged-msci-germany-etf,2014-01-31,1.06,0.53,79700000.0
+HAWX,iShares Currency Hedged MSCI ACWI ex U.S. ETF,https://www.ishares.com/us/products/273768/ishares-currency-hedged-msci-acwi-ex-us-etf,2015-06-29,0.70,0.35,75700000.0
+EMXC,iShares MSCI Emerging Markets ex China ETF,https://www.ishares.com/us/products/288504/ishares-msci-emerging-markets-ex-china-etf-fund,2017-07-18,0.33,0.25,74900000.0
+IAK,iShares U.S. Insurance ETF,https://www.ishares.com/us/products/239515/ishares-us-insurance-etf,2006-05-01,0.42,0.42,64500000.0
+SCJ,iShares MSCI Japan Small-Cap ETF,https://www.ishares.com/us/products/239666/ishares-msci-japan-smallcap-etf,2007-12-20,0.49,0.49,62800000.0
+EWUS,iShares MSCI United Kingdom Small-Cap ETF,https://www.ishares.com/us/products/239691/ishares-msci-united-kingdom-smallcap-etf,2012-01-25,0.59,0.59,58800000.0
+EIRL,iShares MSCI Ireland ETF,https://www.ishares.com/us/products/239662/ishares-msci-ireland-capped-etf,2010-05-05,0.49,0.49,52600000.0
+ECNS,iShares MSCI China Small-Cap ETF,https://www.ishares.com/us/products/239620/ishares-msci-china-smallcap-etf,2010-09-28,0.59,0.59,52300000.0
+FILL,iShares MSCI Global Energy Producers ETF,https://www.ishares.com/us/products/239653/ishares-msci-global-energy-producers-etf,2012-01-31,0.39,0.39,50700000.0
+IGN,iShares North American Tech-Multimedia Networking ETF,https://www.ishares.com/us/products/239770/ishares-north-american-techmultimedia-networking-etf,2001-07-10,0.46,0.46,47200000.0
+HSCZ,iShares Currency Hedged MSCI EAFE Small-Cap ETF,https://www.ishares.com/us/products/273771/ishares-currency-hedged-msci-eafe-small-cap-etf,2015-06-29,0.83,0.43,47000000.0
+EWO,iShares MSCI Austria ETF,https://www.ishares.com/us/products/239609/ishares-msci-austria-capped-etf,1996-03-12,0.49,0.49,42900000.0
+UAE,iShares MSCI UAE ETF,https://www.ishares.com/us/products/264275/ishares-msci-uae-capped-etf,2014-04-29,0.59,0.59,38800000.0
+IPFF,iShares International Preferred Stock ETF,https://www.ishares.com/us/products/239759/ishares-international-preferred-stock-etf,2011-11-15,0.55,0.55,38000000.0
+IDRV,iShares Self-Driving EV and Tech ETF,https://www.ishares.com/us/products/307332/ishares-self-driving-ev-and-tech-etf-fund,2019-04-16,0.47,0.47,36400000.0
+DIVB,iShares U.S. Dividend and Buyback ETF,https://www.ishares.com/us/products/291387/ishares-u-s-dividend-and-buyback-etf-fund,2017-11-07,0.25,0.25,35600000.0
+EFNL,iShares MSCI Finland ETF,https://www.ishares.com/us/products/239647/ishares-msci-finland-capped-etf,2012-01-25,0.53,0.53,34800000.0
+EWK,iShares MSCI Belgium ETF,https://www.ishares.com/us/products/239610/ishares-msci-belgium-capped-etf,1996-03-12,0.49,0.49,32500000.0
+ENOR,iShares MSCI Norway ETF,https://www.ishares.com/us/products/239673/ishares-msci-norway-capped-etf,2012-01-23,0.53,0.53,30800000.0
+EWGS,iShares MSCI Germany Small-Cap ETF,https://www.ishares.com/us/products/239651/ishares-msci-germany-smallcap-etf,2012-01-25,0.59,0.59,28400000.0
+VEGI,iShares MSCI Global Agriculture Producers ETF,https://www.ishares.com/us/products/239652/ishares-msci-global-agriculture-producers-etf,2012-01-31,0.39,0.39,25700000.0
+DVYA,iShares Asia/Pacific Dividend ETF,https://www.ishares.com/us/products/239443/ishares-asiapacific-dividend-etf,2012-02-23,0.49,0.49,24200000.0
+IEIH,iShares Evolved U.S. Innovative Healthcare ETF,https://www.ishares.com/us/products/292423/ishares-evolved-u-s-innovative-healthcare-etf-fund,2018-03-21,0.18,0.18,24100000.0
+IFRA,iShares U.S. Infrastructure ETF,https://www.ishares.com/us/products/294315/ishares-u-s-infrastructure-etf-fund,2018-04-03,0.40,0.40,22700000.0
+ISZE,iShares MSCI Intl Size Factor ETF,https://www.ishares.com/us/products/275384/ishares-msci-international-developed-size-factor-etf,2015-06-16,0.30,0.30,20900000.0
+FOVL,iShares Focused Value Factor ETF,https://www.ishares.com/us/products/307330/ishares-focused-value-factor-etf-fund,2019-03-19,0.25,0.25,20500000.0
+IEDI,iShares Evolved U.S. Discretionary Spending ETF,https://www.ishares.com/us/products/292414/ishares-evolved-u-s-discretionary-spending-etf-fund,2018-03-21,0.18,0.18,20400000.0
+ICOL,iShares MSCI Colombia ETF,https://www.ishares.com/us/products/254562/ishares-msci-colombia-capped-etf,2013-06-18,0.61,0.61,18400000.0
+IEHS,iShares Evolved U.S. Healthcare Staples ETF,https://www.ishares.com/us/products/292422/ishares-evolved-u-s-healthcare-staples-etf-fund,2018-03-21,0.18,0.18,15200000.0
+EMIF,iShares Emerging Markets Infrastructure ETF,https://www.ishares.com/us/products/239735/ishares-emerging-markets-infrastructure-etf,2009-06-16,0.60,0.60,14200000.0
+HEWU,iShares Currency Hedged MSCI United Kingdom ETF,https://www.ishares.com/us/products/273763/ishares-currency-hedged-msci-united-kingdom-etf,2015-06-29,1.12,0.50,13600000.0
+HEWC,iShares Currency Hedged MSCI Canada ETF,https://www.ishares.com/us/products/273775/ishares-currency-hedged-msci-canada-etf,2015-06-29,1.11,0.52,11600000.0
+DMXF,iShares ESG Advanced MSCI EAFE ETF,https://www.ishares.com/us/products/314362/ishares-esg-advanced-msci-eafe-etf-fund,2020-06-16,0.12,0.12,11100000.0
+IEME,iShares Evolved U.S. Media and Entertainment ETF,https://www.ishares.com/us/products/292424/ishares-evolved-u-s-media-and-entertainment-etf-fund,2018-03-21,0.18,0.18,11000000.0
+IECS,iShares Evolved U.S. Consumer Staples ETF,https://www.ishares.com/us/products/292415/ishares-evolved-u-s-consumer-staples-etf-fund,2018-03-21,0.18,0.18,10200000.0
+AGT,iShares MSCI Argentina and Global Exposure ETF,https://www.ishares.com/us/products/287286/ishares-msci-argentina-and-global-exposure-etf-fund,2017-04-25,0.59,0.59,7800000.0
+EWJV,iShares MSCI Japan Value ETF,https://www.ishares.com/us/products/307263/ishares-msci-japan-value-etf-fund,2019-03-05,0.15,0.15,7000000.0
+EWJE,iShares MSCI Japan Equal Weighted ETF,https://www.ishares.com/us/products/307265/ishares-msci-japan-equal-weighted-etf-fund,2019-03-05,0.15,0.15,6900000.0
+STSB,iShares Factors US Small Blend Style ETF,https://www.ishares.com/us/products/313101/ishares-factors-us-small-blend-style-etf-fund,2020-04-14,0.35,0.35,6600000.0
+STLV,iShares Factors US Value Style ETF,https://www.ishares.com/us/products/312214/ishares-factors-us-value-style-etf-fund,2020-01-14,0.25,0.25,6500000.0
+STLC,iShares Factors US Blend Style ETF,https://www.ishares.com/us/products/313074/ishares-factors-us-blend-style-etf-fund,2020-04-14,0.25,0.25,6300000.0
+STMB,iShares Factors US Mid Blend Style ETF,https://www.ishares.com/us/products/313096/ishares-factors-us-mid-blend-style-etf-fund,2020-04-14,0.30,0.30,6200000.0
+STLG,iShares Factors US Growth Style ETF,https://www.ishares.com/us/products/312212/ishares-factors-us-growth-style-etf-fund,2020-01-14,0.25,0.25,5800000.0
+USXF,iShares ESG Advanced MSCI USA ETF,https://www.ishares.com/us/products/314365/ishares-esg-advanced-msci-usa-etf-fund,2020-06-16,0.10,0.10,5700000.0
+DEFA,iShares Adaptive Currency Hedged MSCI EAFE ETF,https://www.ishares.com/us/products/280769/ishares-adaptive-currency-hedged-msci-eafe-etf,2016-01-05,0.70,0.35,5500000.0
+IEFN,iShares Evolved U.S. Financials ETF,https://www.ishares.com/us/products/292421/ishares-evolved-u-s-financials-etf-fund,2018-03-21,0.18,0.18,4300000.0
+HJPX,iShares Currency Hedged JPX-Nikkei 400 ETF,https://www.ishares.com/us/products/279286/ishares-currency-hedged-jpx-nikkei-400-etf,2015-09-29,1.07,0.48,2900000.0
+AMCA,iShares Russell 1000 Pure U.S. Revenue ETF,https://www.ishares.com/us/products/290127/ishares-russell-1000-pure-u-s-revenue-etf-fund,2017-08-08,0.15,0.15,2800000.0
+MIDF,iShares MSCI USA Mid-Cap Multifactor ETF,https://www.ishares.com/us/products/308876/ishares-msci-usa-mid-cap-multifactor-etf-fund,2019-06-04,0.25,0.25,2800000.0
+HEWW,iShares Currency Hedged MSCI Mexico ETF,https://www.ishares.com/us/products/273748/ishares-currency-hedged-msci-mexico-etf,2015-06-29,1.11,0.52,712000000.0
