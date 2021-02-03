@@ -1,6 +1,7 @@
 import threading, time, wget, csv, itertools, \
     pandas, os, logging, sys, datetime, ntplib, pytz, getpass
 
+
 class Application:
     access_permission = 0o755
 
@@ -75,7 +76,7 @@ _____________________________
                     filename = '{}.csv'.format(timestamp)
                     wget.download(url, security_dir + filename)
                     print(f"\nCompleted request for {row['ticker']}", end='\n'
-                          f"Request {1 + self.tickers.index(row['ticker'])} of {len(self.tickers)}")
+                                                                          f"Request {1 + self.tickers.index(row['ticker'])} of {len(self.tickers)}")
                     time.sleep(5)
             return True
 
@@ -131,8 +132,10 @@ _____________________________
                         for index, row in dataframe.iterrows():
                             row['Shares'] = self.float_dtype(row['Shares'])
                             row['Notional Value'] = self.float_dtype(row['Notional Value'])
+
                             def write_exchange(exchange):
                                 dataframe.loc[index, 'Exchange'] = exchange
+
                             if not row['Ticker'] in ['-', '']:
                                 write_exchange(self.exchanges[row['Exchange']])
                             else:
@@ -143,7 +146,7 @@ _____________________________
                                                          columns=['NAV Date', 'NAV Shares'])
                     file.close()
                     dataframe = dataframe.join(nav_dataframe)
-                    #print(f'\nScrape completed for file {file.name}')
+                    # print(f'\nScrape completed for file {file.name}')
                     intervals.append(dataframe)
             return intervals
 
@@ -180,34 +183,50 @@ _____________________________
             df.to_csv(path_or_buf='{}{}.csv'.format(self.master_dir, self.ticker))
             return True
 
-
-#Not done
+    # Not done
     class Clean:
         def __init__(self, tickers, master_dir):
-            self.filepaths = []
+            self.filepaths = {}
             self.master_dir = master_dir
             self.tickers = tickers
-            for ticker in tickers:
-                security_path = os.path.join(master_dir, '{}/'.format(ticker))
-                if os.path.exists(security_path) == True:
-                    for file in os.listdir(security_path):
-                        if file.endswith(".csv"):
-                            self.filepaths.append(os.path.join(security_path, file))
-                            os.path.exists(self.filepaths[0])
-                else:
-                    logging.error(f'Directory not found for {ticker}'
-                                f'{FileNotFoundError}')
-                    sys.exit(1)
+            for ticker in self.tickers:
+                file_paths = []
+                ticker_dir = os.path.join(self.master_dir, '{}/'.format(ticker))
+                if os.path.exists(ticker_dir):
+                    for file in os.listdir(ticker_dir):
+                        file_paths.append(os.path.join(ticker_dir, '/{}'.format(file)))
+                        self.filepaths[ticker] = file_paths
 
-        def remove_illegal_files(self):
-                security_path = self.master_dir + "/" + ticker
+        def __call__(self, *args, **kwargs):
+            for key, value in self.filepaths.items():
+                self.remove_duplicate_files(value)
 
-        def remove_duplicate_files(self):
-            pass
+        @staticmethod
+        def file_legality(file_path):
+            with open(file_path) as file:
+                try:
+                    data = csv.reader(file, delimiter=',')
+                    for index, row in enumerate(itertools.islice(data, 3)):
+                        if index == 1:
+                            date = str(datetime.datetime.strptime(row[1], "%b %d, %Y").date())
+                    return date
+                except:
+                    return None
 
-
-        def get_date(self):
-            pass
+        def remove_duplicate_files(self, *args, **kwargs):
+            if kwargs == {}:
+                kwargs["index"] = 0
+                kwargs["dates"] = []
+            file_path = args[kwargs["index"]]
+            date = self.file_legality(file_path)
+            if date is not None:
+                if date in kwargs["dates"]:
+                    os.remove(file_path)
+                else: kwargs["dates"].append(date)
+            else:
+                os.remove(file_path)
+            if len(args) > 1:
+                return self.remove_duplicate_files(list(args).pop(0), kwargs)
 
     @classmethod
     def module_warning(cls):
@@ -249,7 +268,7 @@ _____________________
 [3] Clean {self.master_dir}
         ''')
         statement = input()
-        self.execute_statement(self.concat, self.request, statement=statement)
+        self.execute_statement(self.concat, self.request, self.clean, statement=statement)
 
     def write_tickers(self):
         os.system('clear')
@@ -320,6 +339,7 @@ Network Timedelta (seconds): {self.NTP.timedelta()}
                     if self.Srape(ticker=ticker, master_dir=self.master_dir).concatenate_dataframes():
                         percents[args[0]] = round((batch.index(ticker) + 1) / len(batch) * 100, 0)
                 del threads[args[0]]
+
             threads.append(threading.Thread(target=target, args=(idx,)))
             print(f"    THREAD {idx + 1} established for {len(batch)} tasks from memory")
         for t in threads: t.start()
@@ -328,6 +348,17 @@ Network Timedelta (seconds): {self.NTP.timedelta()}
             for idx, percent in enumerate(percents):
                 print(f"    THREAD {idx + 1}: {percent}% tasks completed")
         self.__call__()
+
+    def clean(self):
+        os.system('clear')
+        print(f'''
+**************************************
+* Running Directory Cleaning Program *
+**************************************
+                            ''', end='\n')
+        tickers = self.write_tickers()
+        opp = self.Clean(tickers, self.master_dir)
+        opp()
 
 if __name__ == '__main__':
     execute = Application()
