@@ -182,24 +182,22 @@ _____________________________
             df.sort_index(inplace=True)
             df.to_csv(path_or_buf='{}{}.csv'.format(self.master_dir, self.ticker))
             return True
-
-    # Not done
+                          
     class Clean:
         def __init__(self, tickers, master_dir):
             self.filepaths = {}
             self.master_dir = master_dir
             self.tickers = tickers
             for ticker in self.tickers:
-                file_paths = []
-                ticker_dir = os.path.join(self.master_dir, '{}/'.format(ticker))
+                self.filepaths[ticker] = []
+                ticker_dir = os.path.join(self.master_dir, ticker)
                 if os.path.exists(ticker_dir):
                     for file in os.listdir(ticker_dir):
-                        file_paths.append(os.path.join(ticker_dir, '/{}'.format(file)))
-                        self.filepaths[ticker] = file_paths
+                        self.filepaths[ticker].append(os.path.join(ticker_dir, file))
 
         def __call__(self, *args, **kwargs):
             for key, value in self.filepaths.items():
-                self.remove_duplicate_files(value)
+                self.remove_duplicate_files(*value)
 
         @staticmethod
         def file_legality(file_path):
@@ -211,23 +209,22 @@ _____________________________
                             date = str(datetime.datetime.strptime(row[1], "%b %d, %Y").date())
                     return date
                 except:
+                    os.remove(file_path)
+                    print(f"Removed illegal file at {file_path}")
                     return None
 
         def remove_duplicate_files(self, *args, **kwargs):
-            if kwargs == {}:
-                kwargs["index"] = 0
-                kwargs["dates"] = []
-            file_path = args[kwargs["index"]]
-            date = self.file_legality(file_path)
+            if kwargs == {}: kwargs["dates"] = []
+            date = self.file_legality(args[0])
             if date is not None:
                 if date in kwargs["dates"]:
-                    os.remove(file_path)
-                else: kwargs["dates"].append(date)
-            else:
-                os.remove(file_path)
+                    os.remove(args[0])
+                    print(f"Removed Duplicate file at {args[0]}, {date} already exists")
+                else:
+                    kwargs["dates"].append(date)
             if len(args) > 1:
-                return self.remove_duplicate_files(list(args).pop(0), kwargs)
-
+                return self.remove_duplicate_files(*args[1:], **kwargs)
+                          
     @classmethod
     def module_warning(cls):
         logging.getLogger()
@@ -350,13 +347,13 @@ Network Timedelta (seconds): {self.NTP.timedelta()}
         self.__call__()
 
     def clean(self):
+        tickers = self.write_tickers()
         os.system('clear')
         print(f'''
 **************************************
 * Running Directory Cleaning Program *
 **************************************
                             ''', end='\n')
-        tickers = self.write_tickers()
         opp = self.Clean(tickers, self.master_dir)
         opp()
 
