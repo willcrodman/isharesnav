@@ -5,4 +5,4 @@ Terminal Application that allows users to scrape and prosess NAV data for all iS
 ![request](https://github.com/willcrodman/isharesnav/blob/main/isharesnav_request.gif)
 
 ### Concatenating NAV Data Tutorial 
-![request](https://github.com/willcrodman/manet_simulation/blob/main/isharesnav_concat.gif)
+![request](https://github.com/willcrodman/isharesnav/blob/main/isharesnav_concat.gif)
